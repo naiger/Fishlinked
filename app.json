@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "icon": "./assets/icons/app-icon.png",
+    "slug": "FishLinked",
+    "splash": {
+      "hideExponentText": true,
+      "backgroundImage": "./assets/images/splashscreen.jpg"
+    },
+    "privacy": "unlisted",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "packagerOpts": {
+      "assetExts": [
+        "ttf"
+      ]
+    },
+    "androidStatusBarColor": "#ffffff",
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#ffffff"
+    }
+  }
+}
